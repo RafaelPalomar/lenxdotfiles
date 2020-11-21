@@ -1,0 +1,15 @@
+# Open a terminal
+super + Return
+      ${TERMINAL}
+
+# Show the weather forecast
+super + s; i; w
+      st -c Scratch -t "Weather Forecast" -e weather.sh
+
+# Show system monitor
+super + s; m
+      st -c Scratch -t "System Monitor" -e ${SYSMON}
+
+# Launch emacs client
+super + e
+      emacsclient -c
