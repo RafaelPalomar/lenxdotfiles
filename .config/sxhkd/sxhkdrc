@@ -3,13 +3,78 @@ super + Return
       ${TERMINAL}
 
 # Show the weather forecast
+#REQ: media-fonts/nerd-fonts[terminus]::aure-overlay
 super + s; i; w
-      st -c Scratch -t "Weather Forecast" -e weather.sh
+      st -c Scratch -t "Weather Forecast" -f "TerminessTTF NF:size=12" -e weather.sh
 
 # Show system monitor
 super + s; m
       st -c Scratch -t "System Monitor" -e ${SYSMON}
 
+# Show pulse audio mixer
+# REQ: media-sound/pulsemixer
+super + s; a
+      st -c Scratch -t "System Audio" -e pulsemixer
+
 # Launch emacs client
+# REQ: app-editors/emacs
 super + e
       emacsclient -c
+
+# Launch surf browser with tabbed
+# REQ: x11-misc/tabbed
+# REQ: www-client/surf
+super + w
+      tabbed -c surf -e
+
+# Increase master volume by 10% and signals to dwmblocks
+# REQ: media-sound/alsa-mixer
+XF86AudioRaiseVolume
+      amixer set Master 10%+; \
+      pkill -RTMIN+1 -x dwmblocks
+
+# Decrease master volume by 10% and signals to dwmblocks
+# REQ: media-sound/alsa-mixer
+XF86AudioLowerVolume
+      amixer set Master 10%-; \
+      pkill -RTMIN+1 -x dwmblocks
+
+# Increase master volume by 10% and signals to dwmblocks
+# REQ: media-sound/alsa-mixer
+super + XF86AudioRaiseVolume
+      amixer set Capture 10%+; \
+      pkill -RTMIN+1 -x dwmblocks
+
+# Decrease master volume by 10% and signals to dwmblocks
+# REQ: media-sound/alsa-mixer
+super + XF86AudioLowerVolume
+      amixer set Capture 10%-; \
+      pkill -RTMIN+1 -x dwmblocks
+
+# Toggle mute/unmute master
+# REQ: media-sound/alsa-mixer
+XF86AudioMute
+      amixer set Master toggle; \
+      pkill -RTMIN+1 -x dwmblocks
+
+# Toggle mute/unmute mic
+# REQ: media-sound/alsa-mixer
+XF86AudioMicMute
+      amixer set Capture toggle; \
+      pkill -RTMIN+1 -x dwmblocks
+
+# Increase screen brightness
+# REQ: x11-apps/xbacklight
+XF86MonBrightnessUp
+      xbacklight -inc 20
+
+# Decrease screen brightness
+# REQ: x11-apps/xbacklight
+XF86MonBrightnessDown
+      xbacklight -dec 20
+
+# Take a screenshot of the screen
+# REQ: media-gfx/scrot
+Print
+      scrot '%Y-%m-%d_%H-%M-%S_$wx$h.png' -e 'mv $f ~/shots/'
+
