@@ -18,7 +18,6 @@ if [ ${status} == "Discharging" ]; then
     elif [ ${capacity} -gt 75 ] && [ ${capacity} -le 100 ]; then
         echo " ${capacity}%";
     fi
-
-elif [ ${status} == "Charging" ]; then
+else
     echo " ${capacity}%";
 fi
