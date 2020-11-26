@@ -1,5 +1,6 @@
 #!/bin/bash
 #
-sxhkd&
+remap.sh&
+sxhkd& 
 compton&
 dwmblocks&
