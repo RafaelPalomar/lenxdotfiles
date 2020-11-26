@@ -10,8 +10,10 @@ fi
 
 # This will unlock the id_rsa SSH key
 #  keychain --eval --agents gpg --agents ssh A4F1017DFAB43A9CB94358B5A17947E1C9681B37 ~/.ssh/id_rsa
-eval `keychain --nogui --noinherit --stop others --agents gpg,ssh  A4F1017DFAB43A9CB94358B5A17947E1C9681B37 ~/.ssh/id_rsa`
-if [ -f "${HOME}/.keychain/${HOSTNAME}-sh" ]; then
-. "${HOME}/.keychain/${HOSTNAME}-sh"
-. "${HOME}/.keychain/${HOSTNAME}-sh-gpg"
-fi
+#eval `keychain --nogui --noinherit --stop others --agents gpg,ssh  A4F1017DFAB43A9CB94358B5A17947E1C9681B37 ~/.ssh/id_rsa`
+#if [ -f "${HOME}/.keychain/${HOSTNAME}-sh" ]; then
+#. "${HOME}/.keychain/${HOSTNAME}-sh"
+#. "${HOME}/.keychain/${HOSTNAME}-sh-gpg"
+#fi
+gpgconf --launch gpg-agent
+

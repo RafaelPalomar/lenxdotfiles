@@ -25,3 +25,6 @@ export XDG_CONFIG_HOME="${HOME}/.config"
 
 #Set the system monitor
 export SYSMON="$(npm bin)/gtop 2> /dev/null"
+
+#Set the value of SSH_AUTH_SOCK to use gpg subkeys
+export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
