@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# Add local paths
+export PATH=${PATH}:${HOME}/.local/bin:${HOME}/.local/share/status
+
+#Set the default terminal
+export TERMINAL="/usr/bin/st"
+
+#Set the XDG configuration home
+export XDG_CONFIG_HOME="${HOME}/.config"
+
+#Set the system monitor
+export SYSMON="$(npm bin)/gtop 2> /dev/null"
+
+#Set the value of SSH_AUTH_SOCK to use gpg subkeys
+# export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
+
+gpgconf --launch gpg-agent
+
+#keychain --nogui --noinherit --stop others --agents gpg,ssh A4F1017DFAB43A9CB94358B5A17947E1C9681B37 AA966ACE4766A60D
+#if [ -f "${HOME}/.keychain/${HOSTNAME}-sh-gpg" ]; then
+#. "${HOME}/.keychain/${HOSTNAME}-sh-gpg"
+#fi
+
+#if [ -f "${HOME}/.keychain/${HOSTNAME}-sh" ]; then
+#. "${HOME}/.keychain/${HOSTNAME}-sh"
+#fi
+
+export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
+
+#Start emacs daemon
+emacs --daemon
