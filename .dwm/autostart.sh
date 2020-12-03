@@ -3,4 +3,5 @@
 remap.sh&
 sxhkd& 
 compton&
+nextcloud&
 dwmblocks&
