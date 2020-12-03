@@ -1,0 +1,20 @@
+IMAPStore research-gmail
+Host imap.gmail.com
+User palomar.research
+Port 993
+PassCmd "pass Google/palomar.research.isync"
+SSLType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MaildirStore research-gmail-local
+Path ~/Mail/research-gmail/ #Apparently you need the trailing slash (/). You need to create this folder
+Inbox ~/Mail/research-gmail/INBOX
+Subfolders Verbatim #This spawns subfolders as laid out in the server
+
+Channel reearch-gmail
+Master :research-gmail:
+Slave :research-gmail-local:
+Create Both    # Create folders in both repositories
+Expunge Both   # Delete folders in both repositories
+Patterns *       # All folders
+SyncState *      # Will redownload instead of delete in local absence
