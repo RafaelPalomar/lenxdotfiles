@@ -1,0 +1,17 @@
+# Set default values for all following accounts.
+defaults
+auth           on
+tls            on
+tls_trust_file /etc/ssl/certs/ca-certificates.crt
+logfile        ~/.logs/.msmtp.log
+
+# Gmail
+account        gmail-research
+host           smtp.gmail.com
+port           587
+from           palomar.research@gmail.com
+user           palomar.research
+passwordeval   "pass Google/palomar.research.isync"
+
+# Set a default account
+account default : gmail-research
