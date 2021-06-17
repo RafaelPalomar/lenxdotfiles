@@ -15,5 +15,12 @@ fi
 #. "${HOME}/.keychain/${HOSTNAME}-sh"
 #. "${HOME}/.keychain/${HOSTNAME}-sh-gpg"
 #fi
-gpgconf --launch gpg-agent
+#gpgconf --launch gpg-agent
 
+# if [ -f "${HOME}/.keychain/${HOSTNAME}-sh" ]; then
+# . "${HOME}/.keychain/${HOSTNAME}-sh"
+# fi
+
+ if [ -f "${HOME}/.keychain/${HOSTNAME}-sh-gpg" ]; then
+ . "${HOME}/.keychain/${HOSTNAME}-sh-gpg"
+ fi

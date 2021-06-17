@@ -14,17 +14,13 @@ if [[ $- != *i* ]] ; then
 	return
 fi
 
-# Add ~/.local/bin to PATH
-export PATH=${PATH}:${HOME}/.local/bin:${HOME}/.local/share/status
 
-#Set the default terminal
-export TERMINAL="/usr/bin/st"
+source .profile
 
-#Set the XDG configuration home
-export XDG_CONFIG_HOME="${HOME}/.config"
+# if [ -f "${HOME}/.keychain/${HOSTNAME}-sh" ]; then
+# . "${HOME}/.keychain/${HOSTNAME}-sh"
+# fi
 
-#Set the system monitor
-export SYSMON="$(npm bin)/gtop 2> /dev/null"
-
-#Set the value of SSH_AUTH_SOCK to use gpg subkeys
-export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
+# if [ -f "${HOME}/.keychain/${HOSTNAME}-sh-gpg" ]; then
+# . "${HOME}/.keychain/${HOSTNAME}-sh-gpg"
+# fi

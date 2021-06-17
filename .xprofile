@@ -18,7 +18,7 @@ export MAILDIR=${HOME}/Mail
 #Set the value of SSH_AUTH_SOCK to use gpg subkeys
 # export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
 
-gpgconf --launch gpg-agent
+#gpgconf --launch gpg-agent
 
 #keychain --nogui --noinherit --stop others --agents gpg,ssh A4F1017DFAB43A9CB94358B5A17947E1C9681B37 AA966ACE4766A60D
 #if [ -f "${HOME}/.keychain/${HOSTNAME}-sh-gpg" ]; then
@@ -29,7 +29,7 @@ gpgconf --launch gpg-agent
 #. "${HOME}/.keychain/${HOSTNAME}-sh"
 #fi
 
-export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
+#export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
 
 #Start emacs daemon
-emacs --daemon
+#emacs --daemon

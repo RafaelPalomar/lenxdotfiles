@@ -1,0 +1,255 @@
+Dec 27 09:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 09:31 : exception: Failed to open '/home/aure/.mpd/mpd.state': No such file or directory
+Dec 27 09:31 : config: option 'mixer_control' on line 396 was not recognized
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Car24.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Cat_Blues.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Cosmos.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Digging_My_Potato.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Felt_Tip_Pen.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Memory.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Piano_Black.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Pot_City.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Rush.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Rain.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Spokey_Dokey.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Space_Lion.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Tank!.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-The_Egg_and_I.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Too_Good_Too_Bad.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Waltz_for_Zizi.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-American_Money.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Cats_On_Mars.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Bindy.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Don't_Bother_None.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Elm.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Fantaisie_Sign.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Forever_Broke.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Green_Bird.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Gateway.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Live_In_Baghdad.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-The_Singing_Sea.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-You_Make_Me_Cool.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-_Want_It_All_Back.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-The_Egg_And_You.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Adieu.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Autumn_in_Ganymede.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Ave_Maria.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Blue.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Chicken_Bone.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Call_Me_Call_Me.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Go_Go_Cactus_Man.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Mushroom_Hunting.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-The_Real_Man.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-N.Y._Rush.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Words_That_We_Couldn't_Say.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Flying_Teapot.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Farewell_Blues.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Road_to_the_West.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Stella_by_Moor.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Wo_Qui_Non_Coin.mp3
+Dec 27 09:31 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-See_You_Space_Cowboy_(Bonus_T).mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/01 - Bridges & Balloons.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/02 - Sprout And The Bean.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/03 - The Book Of Right-On.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/04 - Sadie.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/05 - Inflammatory Writ.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/07 - "En Gallop".mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/08 - Cassiopeia.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/06 - This Side Of The Blue.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/09 - Peach, Plum, Pear.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/11 - Three Little Babes.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/10 - Swansea.mp3
+Dec 27 09:31 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/12 - Clam, Crab, Cockle, Cowrie.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/02 - The Aural Trick.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/03 - Struggle for Pleasure.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/04 - 4 Mains.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/05 - Close Cover.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/07 - Tourtour.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/06 - Time Passing.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/08 - And with Them.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/01 - Birds for the Mind.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/09 - Flank by Flank.mp3
+Dec 27 09:31 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/10 - Figs.mp3
+Dec 27 12:03 : config: option 'mixer_control' on line 396 was not recognized
+Dec 27 12:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 12:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 12:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 12:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 13:12 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Dec 27 13:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 13:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 27 13:27 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Dec 29 06:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 06:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 08:45 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Dec 29 15:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 15:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 16:18 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Dec 30 08:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 08:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 30 22:40 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Dec 31 07:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 31 07:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 31 15:21 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 03 11:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 11:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 14:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 14:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 21:51 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 04 10:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 10:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 22:25 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 05 08:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 05 08:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 05 17:56 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 06 09:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 06 09:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 06 21:40 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 07 08:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 08:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 19:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 19:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 22:20 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 08 07:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 08 07:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 08 21:40 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 08 22:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 08 22:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 08 22:23 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 09 21:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 09 21:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 09 23:05 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 10 08:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 08:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 09:39 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 10 10:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 10:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 11:10 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 10 11:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 11:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 12:34 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 10 20:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 20:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 21:27 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 10 21:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 21:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 22:17 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 11 08:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 08:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 21:24 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 11 21:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 21:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 21:46 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 11 21:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 21:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 22:09 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 11 22:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 22:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 22:23 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 12 08:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 12 08:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 12 22:36 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 13 08:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 13 08:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 13 21:59 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 15 09:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 15 09:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 15 21:24 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 16 11:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 16 11:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 17 12:12 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 17 20:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 17 20:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 17 22:09 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 18 06:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 18 06:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 18 07:18 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 18 08:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 18 08:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 18 20:56 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 19 06:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 19 06:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 19 06:30 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 19 08:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 19 08:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 19 21:34 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 19 21:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 19 21:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 19 22:16 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 20 08:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 08:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 20:37 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 20 20:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 20:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 21:06 : player: played "Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3"
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Bad_Dog_No_Biscuits.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Car24.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Cat_Blues.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Cosmos.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Digging_My_Potato.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Felt_Tip_Pen.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Memory.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Piano_Black.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Pot_City.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Rush.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Rain.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Spokey_Dokey.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Space_Lion.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Tank!.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-The_Egg_and_I.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Too_Good_Too_Bad.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_1/Cowboy_Bebop_OST_1-Waltz_for_Zizi.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-American_Money.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Cats_On_Mars.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Bindy.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Don't_Bother_None.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Elm.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Fantaisie_Sign.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Forever_Broke.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Green_Bird.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Gateway.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-Live_In_Baghdad.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-The_Singing_Sea.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-You_Make_Me_Cool.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-_Want_It_All_Back.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_2_No_Disc/Cowboy_Bebop_OST_2_No_Disc-The_Egg_And_You.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Adieu.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Autumn_in_Ganymede.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Ave_Maria.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Blue.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Chicken_Bone.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Call_Me_Call_Me.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Go_Go_Cactus_Man.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Mushroom_Hunting.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-The_Real_Man.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-N.Y._Rush.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3_Blue-Words_That_We_Couldn't_Say.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Flying_Teapot.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Farewell_Blues.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Road_to_the_West.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Stella_by_Moor.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-Wo_Qui_Non_Coin.mp3
+Jan 20 21:07 : update: added Cowboy_Bebop_OST_3_Blue/Cowboy_Bebop_OST_3__Blue_-See_You_Space_Cowboy_(Bonus_T).mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/01 - Bridges & Balloons.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/02 - Sprout And The Bean.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/03 - The Book Of Right-On.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/04 - Sadie.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/05 - Inflammatory Writ.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/07 - "En Gallop".mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/08 - Cassiopeia.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/06 - This Side Of The Blue.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/09 - Peach, Plum, Pear.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/11 - Three Little Babes.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/10 - Swansea.mp3
+Jan 20 21:07 : update: added Joanna_Newsom_The_Milk_Eyed_Mender/Joanna Newsom/The Milk-Eyed Mender/12 - Clam, Crab, Cockle, Cowrie.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/02 - The Aural Trick.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/03 - Struggle for Pleasure.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/04 - 4 Mains.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/05 - Close Cover.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/07 - Tourtour.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/06 - Time Passing.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/08 - And with Them.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/01 - Birds for the Mind.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/09 - Flank by Flank.mp3
+Jan 20 21:07 : update: added Wim_Mertens-The-Belly_of_an_Architect/Wim Mertens/The Belly of an Architect/10 - Figs.mp3
